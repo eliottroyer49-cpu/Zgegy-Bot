@@ -1,0 +1,17 @@
+{
+  "name": "proximity-voice-bridge",
+  "version": "1.0.0",
+  "description": "Bot Discord avec suivi de position Minecraft",
+  "main": "bot-complete.js",
+  "scripts": {
+    "start": "node bot-complete.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "@discordjs/voice": "^0.16.1",
+    "prism-media": "^1.3.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
